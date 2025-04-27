@@ -13,7 +13,11 @@ html,body{
     min-height: 100vh;
    border: 10px solid black;
 }
-.conetnt{
+.content{
     max-width: 900px;
     margin: 0 auto;
+}
+.img_btn,img{
+width: 300px;
+height: 300px;
 }
