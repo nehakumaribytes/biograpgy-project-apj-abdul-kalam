@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    background-color: rgb(154, 180, 154);
+    min-height: 100vh;
+   border: 10px solid black;
+}
+.conetnt{
+    max-width: 900px;
+    margin: 0 auto;
+}
